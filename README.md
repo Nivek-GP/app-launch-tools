@@ -31,18 +31,27 @@ Both apps share a dark monochrome UI with glass cards and gradients. They follow
 - **Live preview** — see how the tile will look while you edit it
 - **Long-press to edit** — long-press any tile in Quick Settings to jump straight to its settings
 
-## Installation
+## Download
 
-There are no prebuilt releases yet: [build the APKs](#building-from-source) first, then install them over USB.
+Go to the [Releases page](https://github.com/Nivek-GP/dap-apps/releases) and download the APKs:
+
+| App | File |
+| -- | -- |
+| ShortcutLauncher | `ShortcutLauncher-x.x.x.apk` |
+| QuickLaunch | `QuickLaunch-x.x.x.apk` |
+
+## Installation
 
 1. On the M300, enable **Developer options** and **USB debugging**
 2. Connect it and check that it shows up with `adb devices`
 3. Install both apps:
 
 ```bash
-adb install -r shortcutlauncher/build/outputs/apk/release/shortcutlauncher-release.apk
-adb install -r quicklaunch/build/outputs/apk/release/quicklaunch-release.apk
+adb install -r ShortcutLauncher-x.x.x.apk
+adb install -r QuickLaunch-x.x.x.apk
 ```
+
+> You can also copy the APKs to the device and open them from a file manager, after allowing it to install unknown apps.
 
 ## Setup
 

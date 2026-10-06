@@ -12,7 +12,7 @@ android {
         // Android 13 es el SO del HiBy M300.
         targetSdk = 33
         versionCode = 1
-        versionName = "1.0"
+        versionName = "1.0.0"
     }
 
     buildTypes {
