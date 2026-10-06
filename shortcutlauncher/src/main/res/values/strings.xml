@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">ShortcutLauncher</string>
+    <string name="settings_subtitle">Opens your chosen app every time the device starts or you press Home.</string>
+
+    <string name="section_startup">Startup app</string>
+    <string name="startup_not_set">Choose an app</string>
+    <string name="startup_tap_to_choose">Tap to choose the app to open</string>
+    <string name="startup_change">Tap to change</string>
+    <string name="startup_missing">Not installed. Tap to choose another app</string>
+    <string name="pick_title">Startup app</string>
+
+    <string name="section_home">Default Home</string>
+    <string name="home_active">ShortcutLauncher is your default Home. Press Home to open your startup app.</string>
+    <string name="home_inactive">ShortcutLauncher isn\'t your default Home yet.</string>
+    <string name="home_set">Set as default Home</string>
+    <string name="home_change">Change default Home</string>
+
+    <string name="section_delay">Startup delay</string>
+    <string name="delay_label">Wait before opening</string>
+    <string name="delay_off">Off</string>
+    <string name="delay_value">%1$d s</string>
+    <string name="delay_hint">Only on the first launch after boot. Useful if your music library isn\'t ready yet.</string>
+
+    <string name="test_launch">Open startup app now</string>
+</resources>

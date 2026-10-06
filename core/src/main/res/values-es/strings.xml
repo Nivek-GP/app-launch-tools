@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dap_picker_title">Elige una app</string>
+    <string name="dap_picker_search">Buscar apps</string>
+    <string name="dap_picker_empty">No se encontraron apps</string>
+    <string name="dap_app_missing">App no instalada</string>
+</resources>

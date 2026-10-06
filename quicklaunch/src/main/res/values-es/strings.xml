@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_subtitle">Tiles de Ajustes rápidos que abren tus apps. Toca un tile aquí para editar su app, texto, icono y visibilidad.</string>
+
+    <string name="section_tiles">Tiles</string>
+    <string name="slot_title">Tile %1$d</string>
+    <string name="slot_empty">Vacío</string>
+    <string name="slot_not_set">Toca para configurar</string>
+    <string name="slot_hidden">Oculto</string>
+    <string name="pick_title">App para el tile %1$d</string>
+
+    <string name="section_howto">Añadir tiles a Ajustes rápidos</string>
+    <string name="howto_steps">1. Desliza dos veces hacia abajo para abrir Ajustes rápidos.\n2. Toca el lápiz (editar).\n3. Arrastra los tiles de QuickLaunch al área activa.</string>
+    <string name="howto_tip">Consejo: mantén pulsado cualquier tile de QuickLaunch para editarlo.</string>
+
+    <!-- Edición de un tile -->
+    <string name="section_app">App</string>
+    <string name="app_not_set">Elige una app</string>
+    <string name="app_tap_choose">Toca para elegir la app que abre este tile</string>
+    <string name="app_tap_change">Toca para cambiar</string>
+    <string name="section_label">Texto</string>
+    <string name="label_caption">Déjalo vacío para usar el nombre de la app.</string>
+    <string name="section_icon">Icono</string>
+    <string name="icon_auto_caption">Automático: %1$s para esta app.</string>
+    <string name="section_visibility">Visibilidad</string>
+    <string name="visible_switch">Mostrar en Ajustes rápidos</string>
+    <string name="visible_caption">Los tiles ocultos desaparecen de Ajustes rápidos y de su lista de edición. Si vuelves a mostrar uno, añádelo de nuevo con el lápiz.</string>
+    <string name="reset_slot">Restablecer tile</string>
+
+    <!-- Iconos -->
+    <string name="icon_auto">Automático</string>
+    <string name="icon_bolt">Rayo</string>
+    <string name="icon_home">Casa</string>
+    <string name="icon_apps">Apps</string>
+    <string name="icon_play">Play</string>
+    <string name="icon_music">Música</string>
+    <string name="icon_album">Disco</string>
+    <string name="icon_headphones">Auriculares</string>
+    <string name="icon_equalizer">Ecualizador</string>
+    <string name="icon_mic">Micrófono</string>
+    <string name="icon_folder">Carpeta</string>
+    <string name="icon_settings">Ajustes</string>
+    <string name="icon_tune">Controles</string>
+    <string name="icon_bluetooth">Bluetooth</string>
+    <string name="icon_star">Estrella</string>
+
+    <!-- Tile -->
+    <string name="tile_set_up">Configurar</string>
+    <string name="tile_label_1">QuickLaunch 1</string>
+    <string name="tile_label_2">QuickLaunch 2</string>
+    <string name="tile_label_3">QuickLaunch 3</string>
+    <string name="tile_label_4">QuickLaunch 4</string>
+</resources>

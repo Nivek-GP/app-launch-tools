@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_subtitle">Abre la app que elijas cada vez que el dispositivo arranca o pulsas Home.</string>
+
+    <string name="section_startup">App de arranque</string>
+    <string name="startup_not_set">Elige una app</string>
+    <string name="startup_tap_to_choose">Toca para elegir la app que se abrirá</string>
+    <string name="startup_change">Toca para cambiar</string>
+    <string name="startup_missing">No instalada. Toca para elegir otra app</string>
+    <string name="pick_title">App de arranque</string>
+
+    <string name="section_home">Home por defecto</string>
+    <string name="home_active">ShortcutLauncher es tu Home por defecto. Pulsa Home para abrir tu app de arranque.</string>
+    <string name="home_inactive">ShortcutLauncher aún no es tu Home por defecto.</string>
+    <string name="home_set">Usar como Home por defecto</string>
+    <string name="home_change">Cambiar Home por defecto</string>
+
+    <string name="section_delay">Retraso al arrancar</string>
+    <string name="delay_label">Esperar antes de abrir</string>
+    <string name="delay_off">No</string>
+    <string name="delay_value">%1$d s</string>
+    <string name="delay_hint">Solo en el primer inicio tras encender. Útil si tu biblioteca de música aún no está lista.</string>
+
+    <string name="test_launch">Abrir app de arranque ahora</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Celda de icono: blanca si está elegida, "glass" si no. -->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/dap_ripple">
+    <item>
+        <selector>
+            <item android:state_selected="true">
+                <shape>
+                    <gradient
+                        android:angle="270"
+                        android:endColor="#FFC8C8C8"
+                        android:startColor="#FFFFFFFF" />
+                    <corners android:radius="16dp" />
+                </shape>
+            </item>
+            <item android:drawable="@drawable/dap_bg_glass" />
+        </selector>
+    </item>
+</ripple>
