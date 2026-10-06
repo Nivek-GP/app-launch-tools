@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "dap-apps"
+rootProject.name = "app-launch-tools"
 include(":core", ":shortcutlauncher", ":quicklaunch")
